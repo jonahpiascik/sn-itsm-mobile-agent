@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>false</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description/>
+        <name>v_st_user_and_group_profile</name>
+        <operation display_value="create">create</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>CCMC-03</sys_created_by>
+        <sys_created_on>2021-10-14 19:51:27</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>4e1f19c087d3bc900f9aa60e0ebb35de</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>v_st_user_and_group_profile</sys_name>
+        <sys_package display_value="ITSM Mobile Agent" source="sn_itsm_mobile_agt">516562e3531233007bc2ddeeff7b1205</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</sys_scope>
+        <sys_update_name>sys_security_acl_4e1f19c087d3bc900f9aa60e0ebb35de</sys_update_name>
+        <sys_updated_by>CCMC-03</sys_updated_by>
+        <sys_updated_on>2021-10-14 19:51:27</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</claim_owner_scope>
+        <claim_timestamp>17c80d51f280000001</claim_timestamp>
+        <metadata_update_name>sys_security_acl_4e1f19c087d3bc900f9aa60e0ebb35de</metadata_update_name>
+        <previous_claim_app_version>5.0.1</previous_claim_app_version>
+        <previous_claim_name>ITSM Mobile Agent</previous_claim_name>
+        <previous_claim_scope>516562e3531233007bc2ddeeff7b1205</previous_claim_scope>
+        <sys_created_by>CCMC-03</sys_created_by>
+        <sys_created_on>2021-10-14 22:03:43</sys_created_on>
+        <sys_id>675d31c48757bc900f9aa60e0ebb35ba</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>CCMC-03</sys_updated_by>
+        <sys_updated_on>2021-10-14 22:03:43</sys_updated_on>
+    </sys_claim>
+</record_update>
